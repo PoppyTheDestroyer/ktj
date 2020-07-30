@@ -1,0 +1,100 @@
+#logo {
+    max-width:25%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.bar {
+    display: inline;
+}
+
+a {
+    color: #00abff;
+}
+
+.centerText {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.line {
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+
+.contactForm {
+    margin: 10px 20px;
+  }
+
+  .form-control {
+    max-width: 50%;
+  }
+
+  #submit-btn {
+    background-color: #00abff;
+    padding: 2px 8px;
+    border-radius: 5px;
+  }
+
+  .content {
+    margin: 10px 20px;
+  }
+
+  body {
+      background-color: #f4f4ee;
+  }
+
+  .slide {
+      max-width: 800px;
+      max-height: auto;
+      margin-top: 15px;
+      display: block;
+      margin-left: auto;
+      margin-right: 20px;
+  }
+
+  .mainWords {
+      font-size: 20pt;
+      margin-left: 20px;
+      margin-top: 15px;
+  }
+
+  .gal {
+      max-width: 275px;
+  }
+
+  .galRow {
+      margin-left: 20px;
+  }
+
+  h4 {
+      margin-left: 20px;
+  }
+
+  .galRow img {
+      opacity: 0.8;
+      cursor: pointer;
+      padding: 5px;
+  }
+
+  .galRow img:hover {
+      opacity: 1;
+  }
+
+  .farLeft {
+      margin-left: 20px;
+  }
